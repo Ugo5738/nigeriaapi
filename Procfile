@@ -1,1 +1,1 @@
-web: gunicorn dfxbackend.wsgi --log-file -
+web: gunicorn nigeria_data_api.wsgi --log-file -
