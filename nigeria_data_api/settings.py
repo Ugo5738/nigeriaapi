@@ -18,8 +18,11 @@ SECRET_KEY = os.environ.get("SETTINGS_SECRET_KEY", 'fake secret key')
 DEBUG = bool(int(os.environ.get("DEBUG", 1)))
 
 ALLOWED_HOSTS = [
-    "https://nigeriadataapi-a7d85ab60c04.herokuapp.com"
+    'nigeriadataapi-a7d85ab60c04.herokuapp.com', 
+    'localhost', 
+    '127.0.0.1'
 ]
+
 
 
 # Application definition
