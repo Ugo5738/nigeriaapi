@@ -8,7 +8,7 @@
             "umungasi": ["lon", "lat"],
             "umugasi": ["lon", "lat"],
             "uratta": ["lon", "lat"],
-            "ogbor hill": ["lon", "lat"],": ["lon", "lat"],
+            "ogbor hill": ["lon", "lat"],
             "asa nnentu": ["lon", "lat"],
         },
         "umuahia metropolitan area": {
@@ -960,4 +960,598 @@
             "augie": ["lon", "lat"],
         },
     },
+    "kogi": {
+        "lokoja": {
+            "lokoja": ["lon", "lat"],
+            "ganaja": ["lon", "lat"],
+            "lokongoma": ["lon", "lat"],
+            "adankolo": ["lon", "lat"],
+        "okene ": {
+            "okene": ["lon", "lat"],
+            "ogaminana": ["lon", "lat"],
+            "okengwe": ["lon", "lat"],
+        },
+        "idah": {
+            "idah": ["lon", "lat"],
+        },
+        "ankpa": {
+            "ankpa": ["lon", "lat"],
+        },
+        "kabba": {
+            "kabba": ["lon", "lat"],
+        },
+        "ajaokuta": {
+            "ajaokuta": ["lon", "lat"],
+        },
+        "ibaji": {
+            "ibaji": ["lon", "lat"],
+        },
+        "bida": {
+            "bida": ["lon", "lat"],
+        },
+        "igalamela/odolu": {
+            "igalamela/odolu": ["lon", "lat"],
+        },
+        "okehi": {
+            "okehi": ["lon", "lat"],
+        },
+        "ofu": {
+            "ofu": ["lon", "lat"],
+        },
+        "yagba west": {
+            "yagba west": ["lon", "lat"],
+        },
+    },
+    "kwara": {
+        "ilorin": {
+            "ilorin": ["lon", "lat"],
+            "tanke": ["lon", "lat"],
+            "gra ilorin": ["lon", "lat"],
+            "fate road": ["lon", "lat"],
+            "pipeline": ["lon", "lat"],
+        }
+        "offa ": {
+            "offa": ["lon", "lat"],
+        },
+        "omu-aran": {
+            "omu-aran": ["lon", "lat"],
+        },
+        "kaiama": {
+            "kaiama": ["lon", "lat"],
+        },
+        "lafiagi": {
+            "lafiagi": ["lon", "lat"],
+        },
+        "oke-ero": {
+            "oke-ero": ["lon", "lat"],
+        },
+        "share": {
+            "share": ["lon", "lat"],
+        },
+        "patigi": {
+            "patigi": ["lon", "lat"],
+        },
+        "irepodun": {
+            "irepodun": ["lon", "lat"],
+        },
+        "edu": {
+            "edu": ["lon", "lat"],
+        },
+        "ifelodun": {
+            "ifelodun": ["lon", "lat"],
+        },
+        "baruten": {
+            "baruten": ["lon", "lat"],
+        },
+    },
+    "lagos": {
+        "ikorodu": {
+            "ikorodu": ["lon", "lat"],
+            "ibeshe": ["lon", "lat"],
+            "ogijo": ["lon", "lat"],
+        }
+        "ajah ": {
+            "ajah": ["lon", "lat"],
+            "sangotedo": ["lon", "lat"],
+            "badore": ["lon", "lat"],
+        },
+        "epe": {
+            "epe": ["lon", "lat"],
+            "ijebu-ode": ["lon", "lat"],
+        },
+        "agege": {
+            "agege": ["lon", "lat"],
+            "abule egba": ["lon", "lat"],
+        },
+        "alimosho": {
+            "alimosho": ["lon", "lat"],
+            "egbeda": ["lon", "lat"],
+        },
+        "ojo": {
+            "ojo": ["lon", "lat"],
+            "ijanikin": ["lon", "lat"],
+        },
+        "ajeromi-ifelodun": {
+            "ajeromi-ifelodun": ["lon", "lat"],
+            "amuwo-odofin": ["lon", "lat"],
+        },
+        "surulere": {
+            "surulere": ["lon", "lat"],
+            "itire": ["lon", "lat"],
+        },
+        "oshodi": {
+            "oshodi": ["lon", "lat"],
+            "isolo": ["lon", "lat"],
+        },
+        "lekki": {
+            "lekki": ["lon", "lat"],
+            "victoria island": ["lon", "lat"],
+            "ikoyi": ["lon", "lat"],
+        },
+        "apapa": {
+            "apapa": ["lon", "lat"],
+            "tincan island": ["lon", "lat"],
+        },
+        "maryland": {
+            "maryland": ["lon", "lat"],
+            "ikeja": ["lon", "lat"],
+        }
+    },
+    "nasarawa": {
+        "lafia": {
+            "lafia": ["lon", "lat"],
+            "shendam": ["lon", "lat"],
+            "makurdi": ["lon", "lat"],
+            "kwandere": ["lon", "lat"],
+        }
+        "keffi ": {
+            "keffi": ["lon", "lat"],
+            "angwan lambu": ["lon", "lat"],
+        },
+        "akwanga": {
+            "akwanga": ["lon", "lat"],
+        },
+        "nasarawa eggon": {
+            "nasarawa eggon": ["lon", "lat"],
+        },
+        "karu": {
+            "karu": ["lon", "lat"],
+        },
+        "doma": {
+            "doma": ["lon", "lat"],
+        },
+        "loko": {
+            "loko": ["lon", "lat"],
+        },
+        "wamba": {
+            "wamba": ["lon", "lat"],
+        },
+        "obi": {
+            "obi": ["lon", "lat"],
+        },
+        "awe": {
+            "awe": ["lon", "lat"],
+        },
+        "nasarawa": {
+            "nasarawa": ["lon", "lat"],
+        },
+        "keana": {
+            "keana": ["lon", "lat"],
+        }
+    },
+    "niger": {
+        "minna": {
+            "minna": ["lon", "lat"],
+            "tunga": ["lon", "lat"],
+            "bosso": ["lon", "lat"],
+            "chanchaga": ["lon", "lat"],
+        }
+        "suleja": {
+            "suleja": ["lon", "lat"],
+            "gwagwalada": ["lon", "lat"],
+            "madalla": ["lon", "lat"]
+        },
+        "kontagora": {
+            "kontagora": ["lon", "lat"],
+        },
+        "bida": {
+            "bida": ["lon", "lat"],
+        },
+        "new bussa": {
+            "new bussa": ["lon", "lat"],
+        },
+        "mokwa": {
+            "mokwa": ["lon", "lat"],
+        },
+        "lapai": {
+            "lapai": ["lon", "lat"],
+        },
+        "agaie": {
+            "agaie": ["lon", "lat"],
+        },
+        "rijau": {
+            "rijau": ["lon", "lat"],
+        },
+        "paikoro": {
+            "paikoro": ["lon", "lat"],
+        },
+        "edati ": {
+            "edati ": ["lon", "lat"],
+        }
+        "shiroro ": {
+            "shiroro ": ["lon", "lat"],
+        }
+    },
+    "ogun": {
+        "abeokuta": {
+            "abeokuta": ["lon", "lat"],
+            "ibara": ["lon", "lat"],
+            "oke-ilewo": ["lon", "lat"],
+            "asero": ["lon", "lat"],
+        }
+        "ijebu-ode": {
+            "ijebu-ode": ["lon", "lat"],
+            "ogbere": ["lon", "lat"],
+        },
+        "sagamu": {
+            "sagamu": ["lon", "lat"],
+            "ikenne": ["lon", "lat"],
+        },
+        "ota": {
+            "ota": ["lon", "lat"],
+            "agbara": ["lon", "lat"],
+            "atan": ["lon", "lat"],
+        }
+        "ifo": {
+            "ifo": ["lon", "lat"],
+            "sango-ota": ["lon", "lat"],
+        },
+        "ilaro": {
+            "ilaro": ["lon", "lat"],
+        },
+        "abeokuta north": {
+            "abeokuta north": ["lon", "lat"],
+        }
+        "abeokuta south": {
+            "abeokuta south": ["lon", "lat"],
+        },
+        "ado-odo/ota": {
+            "ado-odo/ota": ["lon", "lat"],
+        },
+        "ijebu east": {
+            "ijebu east": ["lon", "lat"],
+        },
+        "ijebu north": {
+            "ijebu north": ["lon", "lat"],
+        },
+        "ijebu north east": {
+            "ijebu north east": ["lon", "lat"],
+        }
+    },
+    "oyo": {
+        "ibadan": {
+            "ibadan": ["lon", "lat"],
+            "mokola": ["lon", "lat"],
+            "dugbe": ["lon", "lat"],
+            "ring road": ["lon", "lat"],
+        }
+        "ogbomosho": {
+            "ogbomosho": ["lon", "lat"],
+            "owode": ["lon", "lat"],
+        },
+        "iseyin": {
+            "iseyin": ["lon", "lat"],
+        },
+        "oyo": {
+            "oyo": ["lon", "lat"],
+        }
+        "saki": {
+            "saki": ["lon", "lat"],
+        },
+        "egbeda": {
+            "egbeda": ["lon", "lat"],
+        },
+        "ibarapa central": {
+            "ibarapa central": ["lon", "lat"],
+        }
+        "ibarapa east": {
+            "ibarapa east": ["lon", "lat"],
+        }
+        "ibarapa north": {
+            "ibarapa north": ["lon", "lat"],
+        }
+        "kajola": {
+            "kajola": ["lon", "lat"],
+        },
+        "iwajowa": {
+            "iwajowa": ["lon", "lat"],
+        },
+        "atiba": {
+            "atiba": ["lon", "lat"],
+        },
+    },
+    "plateau": {
+        "jos": {
+            "jos": ["lon", "lat"],
+            "bukuru": ["lon", "lat"],
+            "gyel": ["lon", "lat"],
+            "anguldi": ["lon", "lat"],
+        }
+        "barkin ladi": {
+            "barkin ladi": ["lon", "lat"],
+        },
+        "mangu": {
+            "iseyin": ["lon", "lat"],
+        },
+        "pankshin": {
+            "pankshin": ["lon", "lat"],
+        }
+        "langtang": {
+            "langtang": ["lon", "lat"],
+        },
+        "shendam": {
+            "shendam": ["lon", "lat"],
+        },
+        "bokkos": {
+            "bokkos": ["lon", "lat"],
+        }
+        "riyom": {
+            "riyom": ["lon", "lat"],
+        }
+        "qua'an pan": {
+            "qua'an Pan": ["lon", "lat"],
+        }
+        "jos south": {
+            "jos south": ["lon", "lat"],
+        },
+        "jos east": {
+            "jos east": ["lon", "lat"],
+        },
+        "wase": {
+            "wase": ["lon", "lat"],
+        },
+    }
+    "rivers": {
+        "port harcourt": {
+            "port harcourt": ["lon", "lat"],
+            "diobu": ["lon", "lat"],
+            "trans-amadi": ["lon", "lat"],
+            "rumuokoro": ["lon", "lat"],
+        }
+        "obio-akpor": {
+            "obio-akpor": ["lon", "lat"],
+            "rumuosi": ["lon", "lat"],
+            "rumuigbo": ["lon", "lat"],
+        },
+        "ikwerre": {
+            "isiokpo": ["lon", "lat"],
+            "omagwa": ["lon", "lat"],
+        },
+        "eleme": {
+            "eleme": ["lon", "lat"],
+        }
+        "bonny": {
+            "bonny": ["lon", "lat"],
+        },
+        "ogoni": {
+            "bori": ["lon", "lat"],
+            "kono": ["lon", "lat"],
+        },
+        "ahoada": {
+            "ahoada": ["lon", "lat"],
+        }
+        "oyigbo": {
+            "oyigbo": ["lon", "lat"],
+        }
+        "degema": {
+            "degema": ["lon", "lat"],
+        }
+        "okrika": {
+            "okrika": ["lon", "lat"],
+        },
+        "etche": {
+            "etche": ["lon", "lat"],
+        },
+        "khana": {
+            "khana": ["lon", "lat"],
+        },
+    }
+    "sokoto": {
+        "sokoto": {
+            "sokoto": ["lon", "lat"],
+            "arkilla": ["lon", "lat"],
+            "gwiwa": ["lon", "lat"],
+            "tudun wada": ["lon", "lat"],
+        }
+        "birnin kebbi": {
+            "birnin kebbi": ["lon", "lat"],
+        },
+        "gwadabawa": {
+            "gwadabawa": ["lon", "lat"],
+        },
+        "wurno": {
+            "wurno": ["lon", "lat"],
+        }
+        "tambuwal": {
+            "tambuwal": ["lon", "lat"],
+        },
+        "bodinga": {
+            "bodinga": ["lon", "lat"],
+        },
+        "silame": {
+            "silame": ["lon", "lat"],
+        }
+        "goronyo": {
+            "goronyo": ["lon", "lat"],
+        }
+        "illela": {
+            "illela": ["lon", "lat"],
+        }
+        "yabo": {
+            "yabo": ["lon", "lat"],
+        },
+        "rabah": {
+            "rabah": ["lon", "lat"],
+        },
+        "isa": {
+            "isa": ["lon", "lat"],
+        },
+    }
+    "taraba": {
+        "jalingo": {
+            "jalingo": ["lon", "lat"],
+            "sabon gari": ["lon", "lat"],
+            "gassol": ["lon", "lat"],
+        }
+        "wukari": {
+            "wukari": ["lon", "lat"],
+        },
+        "wali": {
+            "wali": ["lon", "lat"],
+        },
+        "ibi": {
+            "ibi": ["lon", "lat"],
+        }
+        "gashaka": {
+            "gashaka": ["lon", "lat"],
+        },
+        "sardauna": {
+            "sardauna": ["lon", "lat"],
+        },
+        "zing": {
+            "zing": ["lon", "lat"],
+        }
+        "gassol": {
+            "gassol": ["lon", "lat"],
+        }
+        "kurmi": {
+            "kurmi": ["lon", "lat"],
+        }
+        "takum": {
+            "takum": ["lon", "lat"],
+        },
+        "lau": {
+            "lau": ["lon", "lat"],
+        },
+        "ussa": {
+            "ussa": ["lon", "lat"],
+        },
+    }
+    "yobe": {
+        "damaturu": {
+            "damaturu": ["lon", "lat"],
+            "gujba": ["lon", "lat"],
+            "potiskum road": ["lon", "lat"],
+        }
+        "nguru": {
+            "nguru": ["lon", "lat"],
+            "machina": ["lon", "lat"],
+        },
+        "gashua": {
+            "gashua": ["lon", "lat"],
+        },
+        "geidam": {
+            "geidam": ["lon", "lat"],
+        }
+        "buni yadi": {
+            "buni yadi": ["lon", "lat"],
+        },
+        "bade": {
+            "bade": ["lon", "lat"],
+        },
+        "jakusko": {
+            "jakusko": ["lon", "lat"],
+        }
+        "nangere": {
+            "nangere": ["lon", "lat"],
+        }
+        "karasuwa": {
+            "karasuwa": ["lon", "lat"],
+        }
+        "yunusari": {
+            "yunusari": ["lon", "lat"],
+        },
+        "tarmuwa": {
+            "tarmuwa": ["lon", "lat"],
+        },
+        "fika": {
+            "fika": ["lon", "lat"],
+        },
+    }
+    "zamfara": {
+        "gusau": {
+            "gusau": ["lon", "lat"],
+            "magajin gari": ["lon", "lat"],
+            "tudun wada": ["lon", "lat"],
+            "gra gusau": ["lon", "lat"],
+        }
+        "tsafe": {
+            "tsafe": ["lon", "lat"],
+        },
+        "kaura namoda": {
+            "kaura namoda": ["lon", "lat"],
+        },
+        "anka": {
+            "anka": ["lon", "lat"],
+        }
+        "birnin magaji": {
+            "birnin magaji": ["lon", "lat"],
+        },
+        "maru": {
+            "maru": ["lon", "lat"],
+        },
+        "talata mafara": {
+            "talata mafara": ["lon", "lat"],
+        }
+        "shinkafi": {
+            "shinkafi": ["lon", "lat"],
+        }
+        "bungudu": {
+            "bugudu": ["lon", "lat"],
+        }
+        "gummi": {
+            "gummi": ["lon", "lat"],
+        }
+        "bakura": {
+            "bakura": ["lon", "lat"],
+        },
+        "bukkuyum": {
+            "bukkuyum": ["lon", "lat"],
+        },
+    }
+    "federal capital territory": {
+        "abuja": {
+            "central": ["lon", "lat"],
+            "garki i and ii": ["lon", "lat"],
+            "maitama": ["lon", "lat"],
+            "wuse i, ii, iii, and iV": ["lon", "lat"],
+            "asokoro": ["lon", "lat"],
+        }
+        "bwari": {
+            "kubwa": ["lon", "lat"],
+            "dutse": ["lon", "lat"],
+            "gwarinpa": ["lon", "lat"],
+            "katampe": ["lon", "lat"],
+            "kado": ["lon", "lat"],
+        },
+        "gwagwalada": {
+            "gwagwalada": ["lon", "lat"],
+            "kuje": ["lon", "lat"],
+            "kwali": ["lon", "lat"],
+            "abaji": ["lon", "lat"],
+        }
+        "kuje": {
+            "kuje": ["lon", "lat"],
+            "rubochi": ["lon", "lat"],
+            "kiyi": ["lon", "lat"],
+            "gwargwada": ["lon", "lat"],
+        },
+        "kwali": {
+            "kwali": ["lon", "lat"],
+            "bako": ["lon", "lat"],
+            "dafa": ["lon", "lat"],
+            "angwa jikwoyi": ["lon", "lat"]
+        },
+    }        
 }
+
