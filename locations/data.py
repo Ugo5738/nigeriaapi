@@ -2,9 +2,13 @@ data = {
     'abia': {
         'aba north': [5.1268, 7.3679], 
         'aba south': [5.0703, 7.3409], 
+        'arochukwu': [5.3845, 7.8867],
+        'bende': [5.5570, 7.6304],
+        'ikwuano': [5.4093, 7.5897],
+        'isiala ngwa north': [5.2868, 7.4165], 
         'isiala ngwa south': [5.32707, 7.39233], 
         'isuikwuato': [5.5333, 7.4833], 
-        'obi ngwa': [5.144278, 7.46501], 
+        'obioma ngwa': [5.144278, 7.46501], 
         'ohafia': [5.6584, 7.7694], 
         'osisioma': [5.1993, 7.3307], 
         'ugwunagbo': [4.998082, 7.330053], 
@@ -12,7 +16,7 @@ data = {
         'ukwa west': [4.98844, 7.24247], 
         'umuahia north': [5.52491, 7.49461], 
         'umuahia south': [5.51531, 7.44731], 
-        'umu nneochi': [3.601521, 6.458985]
+        'umunneochi': [3.601521, 6.458985],
     }, 
     'adamawa': {
         'demsa': [9.455541, 12.152552], 
