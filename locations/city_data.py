@@ -163,7 +163,7 @@ data = {
             'afugiri': [5.6136, 7.4868],
             'umuopara': [5.5468, 7.4282]
         },
-        "umuahia South": {
+        "umuahia south": {
             'umuahia south': [5.51531, 7.44731]
         },
         'umunneochi': {
@@ -262,348 +262,639 @@ data = {
     "akwa ibom": {
         'abak': {
             'abak': [5.003286, 7.77427],
-            'midim': ["lat", "lon"]
+            'midim': [5.0228517604226175, 7.726809541576248]
         },
-        # not very sure of the obolo local government
         "eastern obolo": {
             "eastern obolo": [4.51551, 7.693778],
-            'obolo-enor': ["lat", "lon"],
-            'obolo': ["lat", "lon"],
-            'ofotobong': ["lat", "lon"],
-            "okoroete": ["lat", "lon"],
-            "ibeno": ["lat", "lon"]
+            "okoroete": [4.5331, 7.7464]
         },
         'eket': {
             'eket': [4.646736, 7.942942],
-            'afaha eket': ["lat", "lon"],
-            'idung iniang': ["lat", "lon"]
+            'ikot abasi': [4.575354717703979, 7.580652171652833],
+            'afaha eket': [4.63165, 7.93418]
         },
         'esit-eket': {
             'esit-eket': [4.6309, 8.0706],
-            'ufokpo': ["lat", "lon"],
-            'ekeffe': ["lat", "lon"]
+            'ekeffe': [4.773500265043477, 7.5528734576707075]
         },
         'essien-udim': {
             'essien-udim': [5.15348, 7.64898],
-            'adadia': ["lat", "lon"],
-            'afaha ikot obio nkan': ["lat", "lon"],
-            'ukana': ["lat", "lon"]
+            'adadia': [4.970442645016617, 8.064003915060628],
+            'afaha ikot obio nkan': [4.903, 7.928],
+            'ukana': [5.125890304097089, 7.772468787429802]
         },
         "etim ekpo": {
-            "etim ekpo": [4.978, 7.5925],
-            "utu etim ekpo": ["lat", "lon"],
-            "ikono": ["lat", "lon"]
+            "etim ekpo": [4.978, 7.5925]
         },
         'etinan': {
             'etinan': [4.84262, 7.85252],
-            'minya': ["lat", "lon"],
-            'ndon-eyo': ["lat", "lon"]
+            'minya': [4.642479645132462, 7.720916098034457],
+            'ndon-eyo': [4.630755772345212, 7.856102408675812]
         },
         'ibeno': {
             'ibeno': [4.5651, 8.0726]
         },
         'ibesikpo-asutan': {
-            'ibesikpo': [4.9274, 7.9581],
-            'ibesikpo': ["lat", "lon"],
-            'asutan': ["lat", "lon"]
+            'ibesikpo': [4.9274, 7.9581]
         },
         'ibiono-ibom': {
             'ibiono-ibom': [5.20694, 7.89306],
-            'oko': ["lat", "lon"],
-            'ikpanya': ["lat", "lon"]
+            'oko': [5.208740255842813, 7.884535785130836],
+            'ikpanya': [5.341252484430373, 7.889064776825147]
         },
         "ikono": {
             "ikono": [5.21028, 7.79389],
-            "ifum": ["lat", "lon"],
-            "ntak": ["lat", "lon"]
+            "ntak": [4.888370638288109, 7.704204782811104]
         },
         'ikot-abasi': {
-            'ikot-abasi': [4.6058, 7.6244],
-            'ikpa nung asang': ["lat", "lon"],
-            'edemeya': ["lat", "lon"]
+            'ikot-abasi': [4.6058, 7.6244]
         },
         'ikot-ekpene': {
             'ikot-ekpene': [5.1833, 7.7167],
-            'ukana': ["lat", "lon"],
-            'ukem': ["lat", "lon"]
+            'ukana': [5.125163660509284, 7.772726279478302]
         },
         'ini': {
             'ini': [5.4042, 7.7488],
-            'odoro ikpe': ["lat", "lon"],
-            'ikpe': ["lat", "lon"]
+            'odoro ikpe': [5.356624996436887, 7.752179129278875],
+            'ikpe': [4.722352085501502, 8.11835969803446]
         },
         'itu': {
             'itu': [5.1667, 7.9833],
-            'mbak atai': ["lat", "lon"]
+            'mbak atai': [5.171, 7.99]
         },
         'mbo': {
             'mbo': [4.65, 8.23333],
-            'enwang': ["lat", "lon"],
-            'ifioke': ["lat", "lon"]
+            'enwang': [4.650742409750426, 8.251140770159543]
         },
         'mkpat-enin': {
             'mkpat-enin': [4.73478, 7.74897],
-            'ikot abasi': ["lat", "lon"],
-            'ikpa ikono': ["lat", "lon"]
+            'ikpa ikono': [4.854472511201574, 7.796859415430746]
         },
         'nsit-atia': {
             'nsit-atia': [4.83095, 8.03839],
-            'okopedi': ["lat", "lon"],
-            'ikot osukpong': ["lat", "lon"]
+            'okopedi': [4.862834989926819, 8.12740163012125],
+            'ikot osukpong': [5.048983843562885, 7.570498211646457]
         },
         'nsit-ibom': {
             'nsit-ibom': [4.90092, 7.89309],
-            'afaha offiong': ["lat", "lon"],
-            'ikot ekang': ["lat", "lon"]
+            'afaha offiong': [4.8622600, 7.9062600],
+            'ikot ekang': [5.017370, 7.7584900]
         },
         'nsit-ubium': {
             'nsit-ubium': [4.7427, 7.9488],
-            'ikot edibon': ["lat", "lon"],
-            'ikot obio offong': ["lat", "lon"]
+            'ikot edibon': [4.7702200, 7.9310000],
+            'ikot obio offong': [4.903, 7.928]
         },
         "obot akara": {
             "obot akara": [5.2667, 7.65],
-            "obodom": ["lat", "lon"],
-            "manta": ["lat", "lon"]
+            "manta": [5.006533101315589, 7.808269459961708]
         },
         'okobo': {
             'okobo': [5.0377396, 7.9127945],
-            'atapa': ["lat", "lon"],
-            'ebughu': ["lat", "lon"]
+            'ebughu': [4.674830407459935, 8.244699483454053]
         },
         'onna': {
-            'onna': [4.616, 7.8487],
-            'abak': ["lat", "lon"],
-            'aqua ibom': ["lat", "lon"]
+            'onna': [4.616, 7.8487]
         },
         'oron': {
             'oron': [4.8222, 8.2337],
-            'ufa offong/oruko': ["lat", "lon"],
-            'eyo abasi': ["lat", "lon"]
+            'eyo abasi': [4.78022,8.23558]
         },
         'oruk-anam': {
             'oruk-anam': [4.9, 7.7167],
-            'ikot inyang': ["lat", "lon"],
-            'ikot iko ibon': ["lat", "lon"]
+            'ikot inyang': [4.826940325612916, 7.736523729478304],
+            'ikot iko ibon': [4.615229093462185, 7.804731026064135]
         },
         'udung-uko': {
             'udung-uko': [4.75801, 8.24255]
         },
         'nkanafun': {
             'nkanafun': [4.89499, 7.57431],
-            'odoro ikot': ["lat", "lon"],
-            'ikot ete': ["lat", "lon"]
+            'odoro ikot': [4.801128717886916, 7.548264562540494],
+            'nkwuot-ikot ete': [5.266313626612596, 7.7871146355823235],
+            'ikot ete ekpo': [4.718552654845216, 7.852372021327374]
         },
         'uruan': {
             'uruan': [5.1101, 7.96594],
-            'ikot ofon': ["lat", "lon"],
-            'ikot okubo': ["lat", "lon"]
+            'ikot ofon': [5.113140647125553, 7.808500955461075],
         },
         'urue-offong/oruko': {
-            'urue-offong/oruko': [4.77463, 8.1941],
-            'oruko': ["lat", "lon"],
-            'urue-offong': ["lat", "lon"]
+            'urue-offong/oruko': [4.77463, 8.1941]
         },
         'uyo': {
             'uyo': [5.038963, 7.90947],
-            'ifioanaya': ["lat", "lon"],
-            'afaha offot': ["lat", "lon"],
-            'ifioanaya rural': ["lat", "lon"]
+            'afaha offot': [5.03333, 7.88333]
         },
     },
     'anambra': {
         'aguata': {
             'aguata': [6.0086, 7.1009],
-            'ezinifite': ["lat", "lon"],
-            'umuchu': ["lat", "lon"],
+            'ezinifite': [5.907371204241494, 6.9721492706030626],
+            'umuchu': [5.934532579461651, 7.133168986668791],
         },
         'anambra east': {
             'anambra east': [6.3093, 6.8673],
-            'aguleri': ["lat", "lon"],
-            'umuleri': ["lat", "lon"],
+            'aguleri': [6.327936862597314, 6.88082627783025],
+            'umuleri': [6.294620926367926, 6.898632808691743]
         },
         'anambra west': {
             'anambra west': [6.4902, 6.7922],
-            'nzam': ["lat", "lon"],
-            'egbema': ["lat", "lon"],
+            'nzam': [6.452502211626489, 6.72676003152521]
         },
         'anaocha': {
             'anaocha': [6.0964, 7.0176],
-            'nibo': ["lat", "lon"],
-            'nise': ["lat", "lon"],
+            'nibo': [6.172580699557388, 7.06362074373325],
+            'nise': [6.16150870838658, 7.052359505143583],
         },
         'awka north': {
             'awka north': [6.2636, 7.1252],
-            'achalla': ["lat", "lon"],
-            'uromi': ["lat", "lon"],
+            'achalla': [6.336318958931749, 6.9891346824122484],
+            'uromi': [6.713844057086553, 6.329581439712835],
         },
         'awka south': {
             'awka south': [6.2116, 7.0714],
-            'awka': ["lat", "lon"],
-            'amawbia': ["lat", "lon"],
+            'awka': [6.221804974684013, 7.080517169361832],
+            'amawbia': [6.199968103881468, 7.0477510065028754],
         },
         'ayamelum': {
             'ayamelum': [6.4878, 6.9639],
-            'omor': ["lat", "lon"],
-            'anaku': ["lat", "lon"],
+            'omor': [6.505989525915664, 6.974673395299939],
+            'anaku': [6.468459361484777, 6.930050092890875],
         },
         'dunukofia': {
             'dunukofia': [6.201, 6.9786],
-            'ukpo': ["lat", "lon"],
-            'ifikala': ["lat", "lon"],
+            'ukpo': [6.193693502040894, 6.970291963050418]
         },
         'ekwusigo': {
             'ekwusigo': [5.9566, 6.8512],
-            'ozubulu': ["lat", "lon"],
-            'olumbanasa': ["lat", "lon"],
+            'ozubulu': [5.958922121556205, 6.848759403975751],
         },
         'idemili north': {
             'idemili north': [6.1237, 6.9478],
-            'obosi': ["lat", "lon"],
-            'ogidi': ["lat", "lon"],
+            'ogidi': [6.150, 6.867]
         },
         'idemili south': {
             'idemili south': [6.0773, 6.8673],
-            'nkwelle': ["lat", "lon"],
-            'alor': ["lat", "lon"],
+            'nkwelle': [6.200, 6.833],
+            'alor': [6.081492014122349, 6.958112924460749],
         },
         'ihiala': {
             'ihiala': [5.8516, 6.8512],
-            'mbosi': ["lat", "lon"],
-            'umudim': ["lat", "lon"],
+            'mbosi': [5.851564321528321, 6.888451955741865],
+            'umudim': [5.970060506015505, 6.917360731407145]
         },
         'njikoka': {
             'njikoka': [6.1784, 6.988],
-            'abagana': ["lat", "lon"],
-            'enugwu-ukwu': ["lat", "lon"],
-            'nimo': ["lat", "lon"],
+            'abagana': [6.1862299812364325, 6.980073367913207],
+            'enugwu-ukwu': [6.172018900317655, 7.030862874298021],
+            'nimo': [6.157664655036164, 6.9879483891959175],
         },
         'nnewi north': {
             'nnewi north': [6.0137, 6.9102],
-            'nnewi': ["lat", "lon"],
-            'otolo': ["lat", "lon"],
+            'otolo': [6.009304579201835, 6.9532057610035105],
         },
         'nnewi south': {
             'nnewi south': [5.9602, 6.9853],
-            'ukpor': ["lat", "lon"],
-            'ezinifite': ["lat", "lon"],
+            'ukpor': [5.909450885126488, 6.933140164757029],
+            'ezinifite': [5.907157766974877, 6.972213643615187],
         },
         'ogbaru': {
             'ogbaru': [5.9213, 6.728],
-            'atani': ["lat", "lon"],
-            'osamala': ["lat", "lon"],
+            'atani': [5.50482, 7.76186]
         },
         'onitsha north': {
-            'onitsha north': [6.1624, 6.8029],
-            'onitsha': ["lat", "lon"],
-            'fegge': ["lat", "lon"],
+            'onitsha north': [6.1624, 6.8029]
         },
         'onitsha south': {
             'onitsha south': [6.1364, 6.7762],
-            'fegge': ["lat", "lon"],
-            'oze': ["lat", "lon"],
+            'fegge': [6.134858292336038, 6.774423105335043]
         },
         'orumba north': {
             'orumba north': [6.0543, 7.2006],
-            'ajalli': ["lat", "lon"],
-            'akpu': ["lat", "lon"],
+            'ajalli': [6.05081224891658, 7.206260356746968],
+            'akpu': [6.037931103415677, 7.207964688797061],
         },
         'orumba south': {
             'orumba south': [5.9994, 7.2006],
-            'umunze': ["lat", "lon"],
-            'akwaeze': ["lat", "lon"],
+            'umunze': [5.962295951782644, 7.239389444901083],
+            'akwaeze': [6.0667, 7.0167]
         },
         'oyi': {
             'oyi': [5.1268, 7.3679],
-            'nkwelle': ["lat", "lon"],
-            'onneh': ["lat", "lon"],
+            'nkwelle': [6.211551238098559, 6.853837933624747]
         }
     },
     'bauchi': {
         'alkaleri': {
-            'alkaleri': ["lat", "lon"],
-            'gwaram': ["lat", "lon"],
-            'gar': ["lat", "lon"],
+            'alkaleri': [10.2713, 10.3301],
+            'gwaram': [10.26251776061674, 10.312600113213145],
+            'gar': [10.074576281955702, 10.263663553094968],
         },
         'bauchi': {
-            'bauchi': ["lat", "lon"],
-            'inchame': ["lat", "lon"],
-            'dutse': ["lat", "lon"],
+            'bauchi': [10.306, 9.8404],
+            'dutse': [11.01033,9.90802],
         },
         'bogoro': {
-            'bogoro': ["lat", "lon"],
-            'lusa': ["lat", "lon"],
-            'boi': ["lat", "lon"],
+            'bogoro': [9.6679, 9.6049],
+            'lusa': [9.611310334717379, 9.593084322495208],
+            'boi': [9.56308685937321, 9.504387996228512],
         },
         'dambam': {
-            'dambam': ["lat", "lon"],
-            'bundot': ["lat", "lon"],
-            'zaranda': ["lat", "lon"],
+            'dambam': [11.6779, 10.7112],
+            'bundot': [10.008246676359837, 9.544154546585833],
+            'zaranda': [10.21941,9.52784],
         },
         'darazo': {
-            'darazo': ["lat", "lon"],
-            'b. Jakusko': ["lat", "lon"],
+            'darazo': [10.9965, 10.4088],
         },
         'dass': {
-            'dass': ["lat", "lon"],
-            'baraza': ["lat", "lon"],
+            'dass': [9.9894, 9.5006],
+            'baraza': [9.937153088692027, 9.426864097932325],
         },
         'gamawa': {
-            'gamawa': ["lat", "lon"],
-            'zalau': ["lat", "lon"],
+            'gamawa': [12.1359, 10.538],
+            'zalau': [10.394403055789635, 9.010491143260996],
         },
         'ganjuwa': {
-            'kafin madaki': ["lat", "lon"],
-            'miya': ["lat", "lon"],
+            'ganjuwa': [10.8578, 10.1704],
+            'kafin madaki': [10.695882634737991, 9.759388432168155],
+            'miya': [10.895772495221697, 9.829383016183792],
         },
         'giade': {
-            'giade': ["lat", "lon"],
-            'sade': ["lat", "lon"],
+            'giade': [11.3882, 10.1973],
+            'sade': [11.355702432042309, 10.672679843452457],
         },
         'itas/gadau': {
-            'itas': ["lat", "lon"],
-            'gadau': ["lat", "lon"],
+            'itas': [11.9343, 10.1255],
         },
-    },
-
-
-    "bauchi": {
-        "toro": {
-            "location_point":[10.0596, 9.0709]
+        'jama’are': {
+            'jama’are': [11.6697, 9.9283],
+            'rafin zurfi': [10.259149877531275, 9.78514906052329],
         },
-        "ningi": {
-            "location_point":[11.0716, 9.5729]
+        'katagum': {
+            'katagum': [12.2857, 10.3484],
+            'azare': [11.672895994422097, 10.205836226324163], 
+            'madara': [11.777322496513378, 10.448600569036376],
+            
         },
-        "katagum": {
-            "location_point":[12.2857, 10.3484],
-            "azare": [11.672559771881415, 10.203690459890646]     
+        'kirfi': {
+            'kirfi': [10.3562, 10.5296],
+            'b. k/bishi': [10.252424815509682, 10.094063590038292],
         },
-        "misau area": {
-            "location_point": [11.314, 10.4652]
+        'misau': {
+            'misau': [11.314, 10.4652],
+            'udubo': [11.938350931975355, 10.635549493053603],
+            'burdugau': [11.878500450807453, 7.503214525022333],
         },
-        "jama'are area": {
-            "location_point": [11.6697, 9.9283]
+        'ningi': {
+            'ningi': [11.0716, 9.5729],
+            'lere': [9.710510815738907, 9.339291345019145]
         },
-        "zaki area": {
-            "location_point": [12.1081, 10.3049]
+        'shira': {
+            'shira': [11.4615, 10.0457],
+            'yana': [11.407161560285315, 10.010640507064458],
         },
-        "gamawa area": {
-            "location_point": [12.1359, 10.538]
+        'tafawa balewa': {
+            'tafawa balewa': [9.756, 9.5562],
+            'dull': [9.720463680713387, 9.80555351686742],
         },
-        "tafawa balewa area": {
-            "location_point": [9.756, 9.5562]
+        'toro': {
+            'toro': [10.0596, 9.0709],
+            'tulai': [10.097913005904687, 9.273225463656665],
+            'lame': [10.445064828313125, 9.243804991767707],
         },
-        "bogoro area": {
-            "location_point": [9.6679, 9.6049]
+        'warji': {
+            'warji': [11.1805, 9.7539],
+            'majidadi': [11.498857705406145, 10.425850397806308],
         },
-        "kirfi area": {
-            "location_point": [10.3562, 10.5296]
-        },
-        "warji area": {
-            "location_point":  [11.1805, 9.7539]
+        'zaki': {
+            'katagum': [12.1081, 10.3049],
+            'sakwa': [12.124209864067483, 10.287604854613566],
+            
         }
     },
-    'Federal Capital Territory': {
+    "bayelsa": {
+        'brass': {
+            'brass': [4.3078, 6.2456],
+            'twon-brass': ["lat", "lon"],
+            'okpoama': ["lat", "lon"],
+        },
+        'ekeremor': {
+            'ekeremor': [5.0563, 5.7813],
+            'sagbama': ["lat", "lon"],
+            'aleibiri': ["lat", "lon"],
+        },
+        'kolokuma/opokuma': {
+            'kaiama': [5.092, 6.2588],
+            'kolokuma': ["lat", "lon"],
+            'opokuma': ["lat", "lon"],
+        },
+        'nembe': {
+            'nembe': [4.4942, 6.2801],
+            'bassambiri': ["lat", "lon"],
+            'ogbolomabiri': ["lat", "lon"],
+        },
+        'ogbia': {
+            'ogbia': [4.7399, 6.3652],
+            'oloibiri': ["lat", "lon"],
+            'otakeme': ["lat", "lon"],
+        },
+        'sagbama': {
+            'sagbama': [5.1593, 6.1971],
+            'tungbo': ["lat", "lon"],
+            'toru-orua': ["lat", "lon"],
+        },
+        'southern ijaw': {
+            'oporoma': [4.6198, 5.9833],
+            'amassoma': ["lat", "lon"],
+            'olugbobiri': ["lat", "lon"],
+        },
+        'yenagoa': {
+            'yenagoa': [4.9514, 6.3492],
+            'biseni': ["lat", "lon"],
+            'swali': ["lat", "lon"],
+        }
+    },
+    'benue': {
+        'ado': {
+            'ado': [7.7962, 7.7641],
+            'igumale': ["lat", "lon"],
+            'apa-agila': ["lat", "lon"],
+            'ekile': ["lat", "lon"],
+            'ulayi': ["lat", "lon"],
+        },
+        'agatu': {
+            'agatu': [7.8412, 7.9157],
+            'ubagaji': ["lat", "lon"],
+            'ocholonya': ["lat", "lon"],
+            'agboughul': ["lat", "lon"],
+        },
+        'apa': {
+            'apa': [7.8711, 7.6296],
+            'ugbokpo': ["lat", "lon"],
+            'ijigbam': ["lat", "lon"],
+        },
+        'ouruku': {
+            'ouruku': [7.4178, 9.2231],
+            'tyowanye': ["lat", "lon"],
+            'mbaakon': ["lat", "lon"],
+        },
+        'gboko': {
+            'gboko': [7.3368, 9.0018],
+            'yandev': ["lat", "lon"],
+            'akor': ["lat", "lon"],
+        },
+        'guma': {
+            'guma': [7.9541, 8.7481],
+            'daudu': ["lat", "lon"],
+            'gbajimba': ["lat", "lon"],
+            'agasha': ["lat", "lon"],
+        },
+        'gwer east': {
+            'gwer east': [7.445, 8.3965],
+            'aliade': ["lat", "lon"],
+            'mbachohon': ["lat", "lon"],
+            'awajir': ["lat", "lon"],
+        },
+        'gwer west': {
+            'gwer west': [7.6639, 8.1776],
+            'naka': ["lat", "lon"],
+            'mbasa': ["lat", "lon"],
+            'aondoana': ["lat", "lon"],
+        },
+        'katsina-ala': {
+            'katsina-ala': [7.1658, 9.2841],
+            'tor-donga': ["lat", "lon"],
+            'zaki-oiam': ["lat", "lon"],
+        },
+        'konshisha': {
+            'konshisha': [7.0997, 8.5721],
+            'tse-agberagba': ["lat", "lon"],
+            'lhangev-tiev': ["lat", "lon"],
+            'mbaakaanger': ["lat", "lon"],
+        },
+        'kwande': {
+            'kwande': [6.9126, 9.4562],
+            'adikpo': ["lat", "lon"],
+            'anyan': ["lat", "lon"],
+            'aketi': ["lat", "lon"],
+        },
+        'logo': {
+            'logo': [7.5987, 9.2786],
+            'ugba': ["lat", "lon"],
+            'azege': ["lat", "lon"],
+            'gaambe-tiev': ["lat", "lon"],
+        },
+        'makurdi': {
+            'makurdi': [7.7322, 8.5391],
+            'fiidi': ["lat", "lon"],
+            'zorth oank': ["lat", "lon"],
+        },
+        'obi': {
+            'obi': [8.3688, 8.7715],
+            'obarike-ito': ["lat", "lon"],
+            'oju-obi': ["lat", "lon"],
+            'owukpa': ["lat", "lon"],
+        },
+        'ogbadibo': {
+            'ogbadibo': [6.9876, 7.6548],
+            'otukpa': ["lat", "lon"],
+            'ehaje': ["lat", "lon"],
+            'emonyoku': ["lat", "lon"],
+        },
+        'ohimini': {
+            'ohimini': [7.2396, 7.9157],
+            'idekpa': ["lat", "lon"],
+        },
+        'oju': {
+            'oju': [6.8398, 8.415],
+            'ochobo': ["lat", "lon"],
+            'igede': ["lat", "lon"],
+            'abeje': ["lat", "lon"],
+        },
+        'okpokwu': {
+            'okpokwu': [7.0701, 7.8286],
+            'okpoga': ["lat", "lon"],
+            'emonyoku': ["lat", "lon"],
+            'ohimini': ["lat", "lon"],
+        },
+        'otukpo': {
+            'otukpo': [7.1982, 8.1393],
+            'ogobia': ["lat", "lon"],
+            'upu': ["lat", "lon"],
+            'oglewu': ["lat", "lon"],
+        },
+        'tarka': {
+            'tarka': [7.6299, 8.8142],
+            'wannune': ["lat", "lon"],
+        },
+        'ukum': {
+            'ukum': [7.5909, 9.6341],
+            'zaki-oiam': ["lat", "lon"],
+            'ugba': ["lat", "lon"],
+            'kente': ["lat", "lon"],
+        },
+        'ushongo': {
+            'ushongo': [6.947, 9.255],
+            'lessel': ["lat", "lon"],
+            'achado': ["lat", "lon"],
+            'mbagba': ["lat", "lon"],
+        },
+        'vandeikya': {
+            'vandeikya': [6.7835, 9.0695],
+            'tse-kucha': ["lat", "lon"],
+            'mbaduku': ["lat", "lon"],
+        },
+    },    
+    'borno': {
+        'abadam': {
+            'abadam': [13.6182, 13.2649],
+            'malumfatori': ["lat", "lon"],
+            'bulama': ["lat", "lon"],
+            'kitaram': ["lat", "lon"],
+        },
+        'askira/uba': {
+            'askira/uba': [10.6563, 13.1279],  # confirm this
+            'uba': [10.6563, 13.1279],  # confirm this
+            'rumirgo': ["lat", "lon"],
+            'wamdeo': ["lat", "lon"],
+        },
+        'bama': {
+            'bama': [11.5218, 13.6884],
+            'banki': ["lat", "lon"],
+            'gulumba': ["lat", "lon"],
+            'kumuya': ["lat", "lon"],
+        },
+        'bayo': {
+            'bayo': [10.2729, 11.6613],
+            'dugja': ["lat", "lon"],
+            'kwaya kusar': ["lat", "lon"],
+        },
+        'biu': {
+            'biu': [10.6117, 12.1919],
+            'mandaragirau': ["lat", "lon"],
+            'burai': ["lat", "lon"],
+            'garubula': ["lat", "lon"],
+        },
+        'chibok': {
+            'chibok': [10.8692, 12.8476],
+            'mbalala': ["lat", "lon"],
+            'kwarangilim': ["lat", "lon"],
+        },
+        'damboa': {
+            'damboa': [11.1561, 12.7566],
+            'modingeri': ["lat", "lon"],
+            'kopa': ["lat", "lon"],
+        },
+        'dikwa': {
+            'dikwa': [12.042, 13.9173],
+            'rann': ["lat", "lon"],
+            'musari': ["lat", "lon"],
+        },
+        'gubio': {
+            'gubio': [12.4955, 12.7796],
+            'kareto': ["lat", "lon"],
+            'zannah umar': ["lat", "lon"],
+        },
+        'guzamala': {
+            'guzamala': [12.8817, 13.2202],
+            'gudumbali': ["lat", "lon"],
+            'pulka': ["lat", "lon"],
+        },
+        'gwoza': {
+            'gwoza': [12.8817, 13.2202],
+            'ngoshe': ["lat", "lon"],
+            'kwatara': ["lat", "lon"],
+        },
+        'hawul': {
+            'hawul': [10.4676, 12.3464],
+            'marama': ["lat", "lon"],
+            'Sakwa': ["lat", "lon"],
+            'zangam': ["lat", "lon"],
+        },
+        'jere': {
+            'jere': [11.8948, 13.2202],
+            'maiduguri': ["lat", "lon"],
+            'konduga': ["lat", "lon"],
+            'mainok': ["lat", "lon"],
+        },
+        'kaga': {
+            'kaga': [11.5246, 12.5298],
+            'benisheik': ["lat", "lon"],
+            'ngamdu': ["lat", "lon"],
+            'yimirshika': ["lat", "lon"],
+        },
+        'kala/balge': {
+            'kala/balge': [12.0825, 14.4672],  # confirm if this is accurate
+            'rann': ["lat", "lon"],
+            'kangarwa': ["lat", "lon"],
+        },
+        'konduga': {
+            'konduga': [11.6549, 13.4197],
+            'auno': ["lat", "lon"],
+            'bularafa': ["lat", "lon"],
+        },
+        'kukawa': {
+            'kukawa': [12.923, 13.5639],  # confirm this
+            'cross kauwa': ["lat", "lon"],
+            'baga': ["lat", "lon"],
+            'doron-baga': ["lat", "lon"],
+        },
+        'kwaya kusar': {
+            'kwaya kusar': [12.923, 13.5639],  # confirm this
+            'gulumba': ["lat", "lon"],
+            'bula': ["lat", "lon"],
+        },
+        'mafa': {
+            'mafa': [11.924, 13.5987],
+            'dikwa': ["lat", "lon"],
+            'kirenowa': ["lat", "lon"],
+        },
+        'magumeri': {
+            'magumeri': [12.1151, 12.8256],
+            'gajibo': ["lat", "lon"],
+            'gajiram': ["lat", "lon"],
+        },
+        'maiduguri': {
+            'maiduguri': [11.8311, 13.151],
+            'bulumkutu': ["lat", "lon"],
+            'gwange': ["lat", "lon"],
+            'mairi': ["lat", "lon"],
+            'dalori': ["lat", "lon"],
+        },
+        'marte': {
+            'marte': [12.3641, 13.8277],
+            'new marte': ["lat", "lon"],
+            'kirenuwa': ["lat", "lon"],
+        },
+        'mobbar': {
+            'mobbar': [13.133, 12.7135],
+            'damasa': ["lat", "lon"],
+            'monguno': ["lat", "lon"],
+        },
+        'monguno': {
+            'monguno': [12.6729, 13.616],
+            'kerenoa': ["lat", "lon"],
+            'marte': ["lat", "lon"],
+        },
+        'ngala': {
+            'ngala': [12.3421, 14.1858],
+            'gamboru': ["lat", "lon"],
+            'Logomani': ["lat", "lon"],
+        },
+        'nganzai': {
+            'nganzai': [12.5736, 13.0818],
+            'gajigana': ["lat", "lon"],
+            'zabarmari': ["lat", "lon"],
+        },
+        'shani': {
+            'shani': [10.2227, 12.0518],
+            'kwamjilari': ["lat", "lon"],
+            'azur': ["lat", "lon"],
+        },
+    },    
+    
+    'federal capital territory': {
         'abuja municipal area council (AMAC)': {
             "abuja municipal area council (AMAC)": [9.072264, 7.491302],
             "asokoro": ["lat", "lon"],
