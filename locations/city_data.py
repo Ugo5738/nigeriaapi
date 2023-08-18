@@ -177,73 +177,71 @@ data = {
     'adamawa': {
         'demsa': {
             'demsa': [9.455541, 12.152552],
-            'kpasham': ["lat", "lon"],
-            'nemsa': ["lat", "lon"]
+            'kpasham': [9.281153928664233, 11.786836129515],
         },
         'fufure': {
             'fufure': [9.333333, 12.5],
         },
         'ganye': {
             'ganye': [8.436663, 12.050793],
-            'sabon gari': ["lat", "lon"]
+           
         },
         'girei': {
             'girei': [9.3673084, 12.5498818],
-            'kwaja': ["lat", "lon"],
-            'vinikilang': ["lat", "lon"]
+            'kwaja': [10.112031200667019, 13.298663801033834],
+            'vinikilang': [9.280046911018108, 12.529302688544998]
         },
         'gombi': {
             'gombi': [10.1676, 12.7368],
-            'pella': ["lat", "lon"],
+            'pella': [9.870843714993269, 12.428971016545947],
         },
         'guyuk': {
             'guyuk': [9.905556, 11.928333],
-            'dumne': ["lat", "lon"]
+            'dumne': [9.806165049691565, 12.433193065769006]
         },
         'hong': {
             'hong': [10.230093, 12.926285],
-            'kulangu': ["lat", "lon"],
+            'kulangu': [9.367, 12.283],
         },
         'jada': {
             'jada': [8.766667, 12.15],
-            'koma': ["lat", "lon"]
+            'koma': [12.917,  8.633]
         },
         'lamurde': {
             'lamurde': [9.5705, 11.7179],
-            'garkida': ["lat", "lon"]
+            'garkida': [10.406822368075192, 12.567887350842378]
         },
         'madagali': {
             'madagali': [10.890928, 13.627589],
-            'gulak': ["lat", "lon"],
-            'shuwa': ["lat", "lon"]
+            'gulak': [10.804247849801492, 13.460672198404579],
+            'shuwa': [10.74691664996846, 13.41488778578175]
         },
         'maiha': {
             'maiha': [9.8698, 13.2048],
-            'karlahi': ["lat", "lon"]
+            'karlahi': [8.857450452223379, 12.581830745381302]
         },
         'mayo-belwa': {
             'mayo-belwa': [9.052882, 12.057547],
-            'belel': ["lat", "lon"]
+            'belel': [9.623288800380083, 13.231524727911617]
         },
         'michika': {
             'michika': [10.616667, 13.383333],
-            'bazza': ["lat", "lon"]
+            'bazza': [10.5676513217282, 13.319238432530309]
         },
         'mubi north': {
             'mubi': [10.2649089, 13.271597],
-            'vintim': ["lat", "lon"]
+            'vintim': [10.3071, 13.3241]
         },
         'mubi south': {
             'mubi': [10.1874, 13.3958],
-            'lera': ["lat", "lon"]
+            'lira': [10.2918, 13.3133]
         },
         'numan': {
-            'numan': [9.4637, 12.0306],
-            'bindowe': ["lat", "lon"]
+            'numan': [9.4637, 12.0306]
         },
         'shelleng': {
             'shelleng': [9.88472, 12.0089],
-            'bang': ["lat", "lon"]
+            'bang': [9.453, 11.904]
         },
         'song': {
             'song': [9.825752, 12.61588],
@@ -253,11 +251,12 @@ data = {
         },
         'yola north': {
             'jimeta': [9.2422, 12.5249],
-            'doubeli': ["lat", "lon"]
+            'sabon gari': [9.391800076181836, 12.297713934178363],
+            'doubeli': [ 9.2894, 12.4467]
         },
         'yola south': {
             'yola': [9.2529, 12.4362],
-            'mbamba': ["lat", "lon"]
+            'mbamba': [ 9.9804, 13.0912]
         }
     },
     "akwa ibom": {
@@ -520,21 +519,60 @@ data = {
             'onneh': ["lat", "lon"],
         }
     },
-    "bauchi": {
-        "bauchi": {
-            "location_point": ["lon", "lat"],
+    'bauchi': {
+        'alkaleri': {
+            'alkaleri': ["lat", "lon"],
+            'gwaram': ["lat", "lon"],
+            'gar': ["lat", "lon"],
         },
+        'bauchi': {
+            'bauchi': ["lat", "lon"],
+            'inchame': ["lat", "lon"],
+            'dutse': ["lat", "lon"],
+        },
+        'bogoro': {
+            'bogoro': ["lat", "lon"],
+            'lusa': ["lat", "lon"],
+            'boi': ["lat", "lon"],
+        },
+        'dambam': {
+            'dambam': ["lat", "lon"],
+            'bundot': ["lat", "lon"],
+            'zaranda': ["lat", "lon"],
+        },
+        'darazo': {
+            'darazo': ["lat", "lon"],
+            'b. Jakusko': ["lat", "lon"],
+        },
+        'dass': {
+            'dass': ["lat", "lon"],
+            'baraza': ["lat", "lon"],
+        },
+        'gamawa': {
+            'gamawa': ["lat", "lon"],
+            'zalau': ["lat", "lon"],
+        },
+        'ganjuwa': {
+            'kafin madaki': ["lat", "lon"],
+            'miya': ["lat", "lon"],
+        },
+        'giade': {
+            'giade': ["lat", "lon"],
+            'sade': ["lat", "lon"],
+        },
+        'itas/gadau': {
+            'itas': ["lat", "lon"],
+            'gadau': ["lat", "lon"],
+        },
+    },
+
+
+    "bauchi": {
         "toro": {
             "location_point":[10.0596, 9.0709]
         },
         "ningi": {
             "location_point":[11.0716, 9.5729]
-        },
-        "dass": {
-            "location_point":[9.9894, 9.5006]
-        },
-        "ganjuwa": {
-            "location_point":[10.8578, 10.1704]
         },
         "katagum": {
             "location_point":[12.2857, 10.3484],
@@ -545,12 +583,6 @@ data = {
         },
         "jama'are area": {
             "location_point": [11.6697, 9.9283]
-        },
-        "alkaleri area": {
-            "location_point": [10.2713, 10.3301]
-        },
-        "itas/gadau area": {
-            "location_point": [11.9343, 10.1255]
         },
         "zaki area": {
             "location_point": [12.1081, 10.3049]
@@ -624,7 +656,7 @@ data = {
             "kilankwa": ["lat", "lon"],
         },
     },
-    'Lagos State': {
+    'lagos': {
         'agege': {
             'agege': ["lat", "lon"],
             "oko-oba": ["lat", "lon"],
